@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hi 👋
+
+I'm @msilvag ! My real world name is **Manuel Silva**
+
+I'm a javascript developer (mainly) and currently learning other cool backend stuffs 😎
+
+Here are some another things about me
+
+- 👷 I'm working on @AcademiaNumeral and we're building an awesome platform for students in Peru
+- 💻 I'm a Systems Engineer mainly dedicated to build software
+- 💙 React is what I do
+- 🎮 I like videogames
+- 🏃 I love running
+- 👨‍🎓 I'm learning Python, Java and Go
+
+You can contact me in contact.manuelsilvag@gmail.com
 
 <!--
 **msilvag/msilvag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
