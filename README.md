@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm @msilvag ! My real world name is **Manuel Silva**
+I'm @mj2silva ! My real world name is **Manuel Silva**
 
 I'm a javascript developer (mainly) and currently learning other cool backend stuffs 😎
 
