@@ -2,7 +2,7 @@
 
 I'm @mj2silva ! My real world name is **Manuel Silva**
 
-I'm a javascript developer (mainly) and currently learning other cool backend stuffs 😎
+I'm a java and javascript developer (mainly) and currently learning other cool backend stuffs 😎
 
 Here are some another things about me
 
@@ -11,7 +11,7 @@ Here are some another things about me
 - 💙 React is what I do
 - 🎮 I like videogames
 - 🏃 I love running
-- 👨‍🎓 I'm learning Python, Java and Go
+- 👨‍🎓 I'm learning Python, C# and Go
 
 You can contact me in contact.manuelsilvag@gmail.com
 
