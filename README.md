@@ -2,16 +2,16 @@
 
 I'm @mj2silva ! My real world name is **Manuel Silva**
 
-I'm a java and javascript developer (mainly) and currently learning other cool backend stuffs 😎
+I'm a java, c# and javascript developer (mainly) and currently learning other cool backend stuffs 😎
 
 Here are some another things about me
 
-- 👷 I'm working on @AcademiaNumeral and we're building an awesome platform for students in Peru
+- 👷 I'm working on @StefaniniLatam and we're building and maintaining software for our client Scotiabank.
 - 💻 I'm a Systems Engineer mainly dedicated to build software
-- 💙 React is what I do
+- 💙 C#, Java and React is what I do
 - 🎮 I like videogames
 - 🏃 I love running
-- 👨‍🎓 I'm learning Python, C# and Go
+- 👨‍🎓 I'm learning Python, AI Enthusiast
 
 You can contact me in contact.manuelsilvag@gmail.com
 
