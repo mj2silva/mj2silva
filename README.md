@@ -6,7 +6,7 @@ I'm a java, c# and javascript developer (mainly) and currently learning other co
 
 Here are some another things about me
 
-- 👷 I'm working on @StefaniniLatam and we're building and maintaining software for our client Scotiabank.
+- 👷 I'm working on @ValtxPeru and we're building and maintaining software for our client Scotiabank.
 - 💻 I'm a Systems Engineer mainly dedicated to build software
 - 💙 C#, Java and React is what I do
 - 🎮 I like videogames
